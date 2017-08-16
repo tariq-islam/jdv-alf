@@ -29,4 +29,5 @@
     * Performance
 1. Let's build something
 6. Architectural Overview of JDV
+   * Which sources it can work with - (Oracle, MySql, Cassandra, S3(?), PostgreSQL, IDMS Mainframe)
 8. Quesitons
